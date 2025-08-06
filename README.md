@@ -132,6 +132,8 @@ numpy
 ## Project Structure
 
 ```
+├── notebooks/              # PyTorch reimplementation and deployment preparation
+├── docs/                   # Methodology documentation
 ├── app.py                 # FastAPI application
 ├── index.html            # Web interface
 ├── Aircraft_Flap_Water_Detection_PyTorch.pth
